@@ -1,0 +1,16 @@
+{
+  "name": "laravel express",
+  "description": "Laravel 5",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor/bower_download",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "fontawesome": "~4.4.0"
+  }
+}
