@@ -146,6 +146,8 @@ return [
 
         \Illuminate\Html\HtmlServiceProvider::class,
 
+        \Bestmomo\Scafold\ScafoldServiceProvider::class,
+
     ],
 
     /*
